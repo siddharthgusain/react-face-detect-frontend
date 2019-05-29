@@ -1,0 +1,10 @@
+.signin{
+    background: #45CE30;
+    border-radius:50px;
+    box-shadow: 2px black;
+}
+
+.register{
+    background: #1BCA9B;
+    border-radius:50px;
+}
